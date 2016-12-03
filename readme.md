@@ -2,6 +2,9 @@
 
 **A workshop on building Frontend apps.**
 
+
+:tada: now with command line :tada:
+
 Hey *Local Hackday Berlin* people! This is the source code of my workshop. It's also all you need to get started building web applications. If you need any help, head over to the [Gitter channel](https://gitter.im/derhuerst/hackberlin-workshop).
 
 ![screenshot](screenshot.png)
