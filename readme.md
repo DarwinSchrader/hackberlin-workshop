@@ -1,4 +1,4 @@
-# hackberlin-workshop
+# hackberlin-workshop - MLH Berlin
 
 **A workshop on building Frontend apps.**
 
